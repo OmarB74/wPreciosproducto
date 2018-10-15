@@ -1,0 +1,5 @@
+C:\Users\Omar Bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Release\wPreciosproducto.vbprojAssemblyReference.cache
+C:\Users\Omar Bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Release\wPreciosproducto.FrmPrecioProducto.resources
+C:\Users\Omar Bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Release\wPreciosproducto.Resources.resources
+C:\Users\Omar Bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Release\wPreciosproducto.vbproj.GenerateResource.cache
+C:\Users\Omar Bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Release\wPreciosproducto.vbproj.CoreCompileInputs.cache

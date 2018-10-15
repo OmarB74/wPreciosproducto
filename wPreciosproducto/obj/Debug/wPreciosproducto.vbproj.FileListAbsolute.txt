@@ -1,0 +1,16 @@
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\bin\Debug\wPreciosproducto.exe.config
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\bin\Debug\wPreciosproducto.exe
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\bin\Debug\wPreciosproducto.pdb
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\bin\Debug\wPreciosproducto.xml
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Debug\wPreciosproducto.vbprojAssemblyReference.cache
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Debug\wPreciosproducto.FrmPrecioProducto.resources
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Debug\wPreciosproducto.Resources.resources
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Debug\wPreciosproducto.vbproj.GenerateResource.cache
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Debug\wPreciosproducto.vbproj.CoreCompileInputs.cache
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Debug\wPreciosproducto.exe
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Debug\wPreciosproducto.xml
+c:\users\omar bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Debug\wPreciosproducto.pdb
+C:\Users\Omar Bolaños\source\repos\wPreciosproducto\wPreciosproducto\bin\Debug\MySql.Data.dll
+C:\Users\Omar Bolaños\source\repos\wPreciosproducto\wPreciosproducto\bin\Debug\Google.Protobuf.dll
+C:\Users\Omar Bolaños\source\repos\wPreciosproducto\wPreciosproducto\bin\Debug\MySql.Data.xml
+C:\Users\Omar Bolaños\source\repos\wPreciosproducto\wPreciosproducto\obj\Debug\wPreciosproducto.vbproj.CopyComplete
